@@ -1,4 +1,4 @@
-FROM        ubuntu:18.04
+FROM        debian:jessie
 
 LABEL       author="denNorske" maintainer="den@ducky.rocks"
 
